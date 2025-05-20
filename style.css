@@ -1,0 +1,34 @@
+/* Class Selector */
+.main-heading {
+    color: darkblue;
+    font-family: 'Georgia', serif;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* ID Selector */
+#intro {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    color: #333;
+    margin: 10px 20px;
+}
+
+/* Element Selector */
+img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #555;
+    border-radius: 8px;
+    width: 300px;
+}
+
+/* Another Class Selector with spacing */
+.content-box {
+    background-color: #f9f9f9;
+    border: 2px solid #ccc;
+    padding: 15px;
+    margin: 20px;
+    font-family: Verdana, sans-serif;
+}
